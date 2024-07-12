@@ -8,3 +8,4 @@ In this we have predicted the stock prices by using an LTSM model along with var
 
 
 
+# InvestX
